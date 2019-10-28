@@ -1,4 +1,5 @@
 <?php 
+// :(
 	$title = date('o');
 
 	$a = 10;
